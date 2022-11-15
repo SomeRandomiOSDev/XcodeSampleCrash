@@ -1,0 +1,6 @@
+//
+//  Debug.xcconfig
+//  Crash
+//
+
+SWIFT_OPTIMIZATION_LEVEL = -Onone
